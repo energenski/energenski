@@ -1,12 +1,12 @@
 <h1 align="center">Hi! I'm Gennalyn Soriano</h1>
 <h3 align="center">A comsci noob who still loves her degprog thankfully!</h3>
 
-- What should people know about me **I'm shy owo and at sophomore standing currently**
-- Personal projects **Do I have? or Do I not? I actually do not have any personal projects**
-- Known PLs **Python, HTML (dont fight me abt this), CSS, C, C++, Java**
-- Hobbies **I like to crochet. Please do commission<3*
-- 📫 How to reach me **gqsoriano@up.edu.ph**
-- ⚡ Fun fact **uh im a weeb? does that count?**
+- What should people know about me? **I'm shy owo and at sophomore standing currently**
+- Personal projects? **Do I have? or Do I not? I actually do not have any personal projects**
+- Known PLs? **Python, HTML (dont fight me abt this), CSS, C, C++, Java**
+- Hobbies? **I like to crochet. Please do commission<3**
+- 📫 How to reach me? **gqsoriano@up.edu.ph**
+- ⚡ Fun fact! **uh im a weeb? does that count?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

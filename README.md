@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Gennalyn Soriano</h1>
+<h1 align="center">Hi! I'm Gennalyn Soriano✨</h1>
 <h3 align="center">A comsci noob who still loves her degprog thankfully!</h3>
 
 - What should people know about me? **I'm shy owo and at sophomore standing currently**
